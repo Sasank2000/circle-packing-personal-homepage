@@ -1,6 +1,6 @@
 {
-  "Title": "Aditya Ketkar | Personal Webpage",
-  "Name": "Aditya Ketkar",
+  "Title": "Koganti Sasank | Personal Webpage",
+  "Name": "Koganti Sasank",
   "Description": [
     "SDE @ Microsoft. Recent graduate from BITS Pilani. Passionate about Space Tech, Sports and Startups.",
     "I grab every chance I get to travel, learn and create."
@@ -88,38 +88,14 @@
         }
       ]
     }
-  ],
-  "BlogsIntroLine": "Here are some of my blog posts you might enjoy : ",
-  "Blogs": [
-    {
-      "blogTitle": "Hey Alexa, meet Music 🎵",
-      "link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
-    },
-    {
-      "blogTitle": "7 actionable steps to ace your coding interview 👩‍💻",
-      "link": "https://www.linkedin.com/pulse/7-actionable-steps-ace-your-coding-interview-aditya-ketkar?trk=public_profile_article_view"
-    },
-    {
-      "blogTitle": "Tech Interview Prep Series 👨‍💼",
-      "link": "https://edmad.co/blog"
-    },
-    {
-      "blogTitle": "Jagriti Yatra Series 🚂 🌎",
-      "link": "https://ketkar.medium.com/jagrati-yatra-day-1-d30725cf8f71"
-    }
-  ],
+  ]
 
   "CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together 💪 ",
   "CV": "https://www.visualcv.com/aditya-ketkar/",
   "Resume": "https://drive.google.com/file/d/1zYV1lTNuGbMaB5-vnaGY5x-gnb9kAwWX/view?usp=sharing",
 
-  "emailid": "mailto:adityaketkar848@gmail.com",
-  "linkedin": "https://linkedin.com/in/adityaketkar",
-  "wordpress": "https://technoshblog.wordpress.com/",
-  "facebook": "https://www.facebook.com/aditya.ketkar.520",
-  "github": "https://github.com/adityaketkar",
-  "instagram": "http://www.adityaketkar.me",
-  "twitter": "https://twitter.com/adityaketkar",
-  "medium": "https://ketkar.medium.com/",
-  "linktree": "https://linktr.ee/ketkar"
+  "emailid": "mailto:k.sasank007@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/koganti-sasank-9a1051189",
+  "github": "https://github.com/Sasank2000",
+  "medium": "https://medium.com/@k.sasank007"
 }
